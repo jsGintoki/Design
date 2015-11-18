@@ -15,3 +15,5 @@ https://github.com/antoniolg/androidmvp
 
 
 http://www.kymjs.com/code/2015/11/09/01/
+
+http://rocko.xyz/2015/11/07/MVVM_Android-CleanArchitecture/#more
